@@ -1,0 +1,78 @@
+/* CardFeature Component Styles */
+.flex {
+    display: flex;
+  }
+  
+  .items-center {
+    align-items: center;
+  }
+  
+  .justify-center {
+    justify-content: center;
+  }
+  
+  .bg-white {
+    background-color: #ffffff;
+  }
+  
+  .hover\:shadow-lg:hover {
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .drop-shadow-lg {
+    box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.1);
+  }
+  
+  .py-5 {
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+  }
+  
+  .px-4 {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+  
+  .cursor-pointer {
+    cursor: pointer;
+  }
+  
+  .flex-shrink-0 {
+    flex-shrink: 0;
+  }
+  
+  .h-28 {
+    height: 7rem;
+  }
+  
+  .w-28 {
+    width: 7rem;
+  }
+  
+  .object-cover {
+    object-fit: cover;
+  }
+  
+  .flex-grow {
+    flex-grow: 1;
+  }
+  
+  .font-semibold {
+    font-weight: 600;
+  }
+  
+  .text-slate-600 {
+    color: #6b7280;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  .capitalize {
+    text-transform: capitalize;
+  }
+  
+  .text-lg {
+    font-size: 1.125rem;
+  }
